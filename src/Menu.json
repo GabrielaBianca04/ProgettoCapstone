@@ -1,0 +1,375 @@
+{
+"prodotti": [
+{
+ "nome": "Antipasto misto",
+  "categoria": "Antipasti",
+  "prezzo": 8.00
+ },
+
+ {
+ "nome": "Verdure miste",
+    "categoria": "Antipasti",
+    "prezzo": 3.00
+  },
+ {
+    "nome": "Patatine 1 porzione",
+     "categoria": "Antipasti",
+    "prezzo": 3.00
+  },
+  {
+    "nome": "Bandidos 8 pezzi",
+     "categoria": "Antipasti",
+    "prezzo": 4.00
+},
+ {
+     "nome": "Bandidos 13 pezzi",
+     "categoria": "Antipasti",
+    "prezzo": 6.00
+ },
+{
+    "nome": "Bandidos 27 pezzi",
+     "categoria": "Antipasti",
+    "prezzo": 12.00
+},
+{
+    "nome": "Montanara classica",
+    "categoria": "Antipasti",
+    "prezzo": 2.50
+},
+{
+    "nome": "montanara mortadella e pistacchio",
+    "categoria": "Antipasti",
+    "prezzo": 3.50
+},
+{
+    "nome": "Porzione crocche mignon",
+    "categoria": "Antipasti",
+    "prezzo": 3.50
+ },
+ {
+    "nome": "Frittaina patate e provola ",
+    "categoria": "Antipasti",
+    "prezzo": 3.00
+},
+ {
+     "nome": "Frittatina classica",
+    "categoria": "Antipasti",
+     "prezzo": 3.00
+},
+{
+    "nome": "Bandidos 8 pezzi",
+    "categoria": "Antipasti",
+    "prezzo": 3.00
+},
+{
+    "nome": "Frittatina di spaghetti",
+    "categoria": "Antipasti",
+    "prezzo": 3.00
+ },
+ {
+    "nome": "crocche grande",
+    "categoria": "Antipasti",
+    "prezzo": 2.00
+},
+{
+    "nome": "Panzerotto",
+    "categoria": "Antipasti",
+    "prezzo": 2.00
+},
+{
+    "nome": "crocche con mortadella",
+    "categoria": "Antipasti",
+    "prezzo": 3.00
+    },
+
+
+      {
+        "nome": "Margherita",
+        "categoria": "Pizze Rosse",
+        "ingredienti": "Pomodoro rosso Gargano, fior di latte misto bufala, basilico, olio Evo",
+        "prezzo": 5.00
+      },
+      {
+        "nome": "Marinara",
+        "categoria": "Pizze Rosse",
+        "ingredienti": "Pomodoro rosso Gargano, aglio, basilico, olio Evo",
+        "prezzo": 4.00
+      },
+      {
+        "nome": "Napoletana",
+        "categoria": "Pizze Rosse",
+        "ingredienti": "Pomodoro rosso Gargano, filetti di alici, aglio, origano, olive nere, basilico, olio Evo",
+        "prezzo": 5.00
+      },
+      {
+        "nome": "Diavola",
+        "categoria": "Pizze Rosse",
+        "ingredienti": "Pomodoro rosso Gargano, fior di latte misto bufala, salame piccante, fili di peperoncino, basilico, olio Evo",
+        "prezzo": 6.00
+      },
+      {
+        "nome": "Bufalina",
+        "categoria": "Pizze Rosse",
+        "ingredienti": "Pomodoro rosso Gargano, mozzarella di bufala campana, basilico, olio Evo",
+        "prezzo": 8.00
+      },
+      {
+        "nome": "Capricciosa",
+        "categoria": "Pizze Rosse",
+        "ingredienti": "Pomodoro rosso Gargano, fior di latte misto bufala, prosciutto cotto, funghi champignon, carciofini, olive nere, olio Evo",
+        "prezzo": 7.00
+      },
+      {
+        "nome": "San Marzano",
+        "categoria": "Pizze Rosse",
+        "ingredienti": "Filetti San Marzano DOP, mozzarella di bufala, basilico, olio Evo",
+        "prezzo": 8.00
+      },
+      {
+        "nome": "Calzone al forno",
+        "categoria": "Pizze Rosse",
+        "ingredienti": "Pomodoro rosso Gargano, Fior di latte, prosciutto cotto, basilico, olio Evo",
+        "prezzo": 7.00
+      },
+      {
+        "nome": "Ortolana",
+        "categoria": "Pizze Bianche",
+        "ingredienti": "Fior di latte misto bufala, peperoni, melanzane, zucchine, basilico, olio Evo",
+        "prezzo": 6.50
+      },
+      {
+        "nome": "Contadina",
+        "categoria": "Pizze Bianche",
+        "ingredienti": "Fior di latte misto bufala, pancetta, cipolla, olio Evo",
+        "prezzo": 6.50
+      },
+      {
+        "nome": "4 formaggi",
+        "categoria": "Pizze Bianche",
+        "ingredienti": "Fior di latte misto bufala, provola, scaglie di provolone, gorgonzola, basilico, olio Evo",
+        "prezzo": 7.00
+      },
+      {
+        "nome": "Viennese",
+        "categoria": "Pizze Bianche",
+        "ingredienti": "Fior di latte misto bufala, wurstel, patatine, basilico, olio Evo",
+        "prezzo": 6.50
+      },
+      {
+        "nome": "Mimosa",
+        "categoria": "Pizze Bianche",
+        "ingredienti": "Fior di latte misto bufala, prosciutto cotto, panna, mais, basilico, olio Evo",
+        "prezzo": 6.50
+      },
+      {
+        "nome": "Ciccia",
+        "categoria": "Pizze Bianche",
+        "ingredienti": "Fior di latte misto bufala, provola affumicata, salsiccia, friarielli, basilico, olio Evo",
+        "prezzo": 7.00
+      },
+      {
+        "nome": "Sfiziosa",
+        "categoria": "Pizze Bianche",
+        "ingredienti": "Fior di latte misto bufala, prosciutto crudo, pomodorini, grana padano, rucola, basilico, olio Evo",
+        "prezzo": 7.00
+      },
+      {
+        "nome": "Tonno&Cipolla",
+        "categoria": "Pizze Bianche",
+        "ingredienti": "Fior di latte misto bufala, cipolla, filetto di tonno, basilico, olio Evo",
+        "prezzo": 6.50
+      },
+      {
+        "nome": "Calzone Napoletano",
+        "categoria": "Pizze Bianche",
+        "ingredienti": "Fior di latte misto bufala, ricotta, provola affumicata, salame napoli, pepe, basilico, olio Evo",
+        "prezzo": 8.00
+      },
+      {
+        "nome": "Focaccia",
+        "categoria": "Pizze Bianche",
+        "prezzo": 3.00
+      },
+      {
+        "nome": "Mortadella",
+        "categoria": "Pizze Special",
+        "ingredienti": "Fior di latte misto bufala, mortadella, Pesto di pistacchio, granella di pistacchio, stracciata di bufala, basilico, olio Evo",
+        "prezzo": 9.00
+      },
+      {
+        "nome": "Speck",
+        "categoria": "Pizze Special",
+        "ingredienti": "Fior di latte misto bufala, speck, noci, Miele di Acacia, basilico",
+        "prezzo": 7.00
+      },
+      {
+        "nome": "Parmigiana",
+        "categoria": "Pizze Special",
+        "ingredienti": "Pomodoro rosso Gargano, fior di latte misto bufala, parmigiana di melanzane, basilico, olio Evo",
+        "prezzo": 8.00
+      },
+      {
+        "nome": "Golosa",
+        "categoria": "Pizze Special",
+        "ingredienti": "Fior di latte misto bufala, porchetta, bandidos, provola, melanzane a funghetto, maionese, basilico, olio Evo",
+        "prezzo": 10.00
+      },
+      {
+        "nome": "Nerano",
+        "categoria": "Pizze Special",
+        "ingredienti": "Fior di latte misto bufala, crema di zucchine, provolone, pomodori secchi, basilico, olio Evo",
+        "prezzo": 10.00
+      },
+      {
+        "nome": "Tartufona",
+        "categoria": "Pizze Special",
+        "ingredienti": "Fior di latte misto bufala, salsiccia, pomodorini gialli, tartufo fresco, scaglie di parmigiano, basilico, olio Evo",
+        "prezzo": 10.00
+      },
+      {
+        "nome": "Nutella",
+        "categoria": "Dolci",
+        "ingredienti": "Focaccia, Nutella",
+        "prezzo": 6.00
+      },
+      {
+        "nome": "Cocco",
+        "categoria": "Dolci",
+        "ingredienti": "Focaccia, Nutella, scaglie di cocco",
+        "prezzo": 6.00
+      },
+      {
+        "nome": "Pistacchio",
+        "categoria": "Dolci",
+        "ingredienti": "Focaccia,crema di pistacchio, granella di pistacchio",
+        "prezzo": 7.00
+      },
+      {
+        "nome": "Peperoncino",
+        "categoria": "Dolci",
+        "prezzo": 6.00
+      },
+      {
+        "nome": "Acqua naturale 1l",
+        "categoria": "Bevande",
+        "prezzo": 2.00
+      },
+      {
+        "nome": "Acqua minerale 1l",
+        "categoria": "Bevande",
+        "prezzo": 2.00
+      },
+      {
+        "nome": "Coca cola in vetro 1l",
+        "categoria": "Bevande",
+        "prezzo": 3.00
+      },
+      {
+        "nome": "Fanta in vetro 1l",
+        "categoria": "Bevande",
+        "prezzo": 3.00
+      },
+      {
+        "nome": "Coca cola pet 1,5l",
+        "categoria": "Bevande",
+        "prezzo": 3.00
+      },
+      {
+        "nome": "Fanta pet 1,5l",
+        "categoria": "Bevande",
+        "prezzo": 3.00
+      },
+      {
+        "nome": "Peroni 33 cl",
+        "categoria": "Bevande",
+        "prezzo": 1.80
+      },
+      {
+        "nome": "Peroni 66 cl",
+        "categoria": "Bevande",
+        "prezzo":3.00
+      },
+      {
+        "nome": "Heineken 33 cl",
+        "categoria": "Bevande",
+        "prezzo": 2.00
+      },
+      {
+        "nome": "Heineken 66 cl",
+        "categoria": "Bevande",
+        "prezzo": 3.50
+      },
+      {
+        "nome": "Nstro azzuro 33 cl",
+        "categoria": "Bevande",
+        "prezzo": 2.00
+      },
+      {
+        "nome": "Nstro azzuro 66 cl",
+        "categoria": "Bevande",
+        "prezzo": 3.50
+      },
+      {
+        "nome": "Peroni non filtrata alla spina 02 cl",
+        "categoria": "Bevande",
+        "prezzo": 2.50
+      },
+      {
+        "nome": "Peroni non filtrata alla spina 04 cl",
+        "categoria": "Bevande",
+        "prezzo": 4.50
+      },
+      {
+        "nome": "Nastro azzurro alla spina 02 cl",
+        "categoria": "Bevande",
+        "prezzo": 2.50
+      },
+      {
+        "nome": "Nastro azzurro alla spina 04 cl",
+        "categoria": "Bevande",
+        "prezzo": 4.50
+      },
+      {
+        "nome": "Falanghina 0.75 lt",
+        "categoria": "Bevande",
+        "prezzo": 10.00
+      },
+      {
+        "nome": "Aglianico 0.75 lt",
+        "categoria": "Bevande",
+        "prezzo": 10.00
+      },
+      {
+        "nome": "Vino rose 0.75 lt",
+        "categoria": "Bevande",
+        "prezzo": 10.00
+      },
+      {
+        "nome": "Calice di vino",
+        "categoria": "Bevande",
+        "prezzo": 2.50
+      },
+      {
+        "nome": "Amari & Liquori",
+        "categoria": "Bevande",
+        "prezzo": 2.00
+      },
+      {
+        "nome": "Caffe",
+        "categoria": "Bevande",
+        "prezzo": 1.00
+      }
+      
+    ],
+    "panuozzoFaiDaTe": {
+        "nome": "Panuozzo fai da te",
+        "categoria": "Pizze Special",
+        "prezzo": 8.50,
+        "personalizzazioni": {
+          "carne": ["salsiccia", "wurstel", "porchetta", "bandidos", "kebab"],
+          "contorni": ["insalata", "pomodorini", "cipolle", "mais", "funghi champignon", "melanzane sott'olio", "verdure fritte", "patatine fritte", "provola", "mozzarella", "cheddar"],
+          "salse": ["maionese", "ketchup", "salsa kebab", "salsa yogurt", "salsa BBQ", "salsa cheddar", "salsa harissa", "salsa andaluse"]
+        }
+      }
+    } 
+  

@@ -1,0 +1,21 @@
+
+[
+    {
+      "titolo": "San Valentino",
+      "descrizione": "Trascorri il tuo San Valentino con noi.",
+      "data": "14 febbraio 2024",
+      "immagine": "https://img.freepik.com/free-psd/valentines-day-cute-background-mockup-with-decorative-love-hearts-top-view-scene_103373-863.jpg"
+    },
+    {
+      "titolo": "La festa della donna",
+      "descrizione": "Sorprendi la tua donna con le nostre specialità.",
+      "data": "8 marzo 2024",
+      "immagine": "https://img.freepik.com/premium-vector/march-8-text-vector-design-international-women-s-day-celebration-with-flowers-leaves-elements_572293-3240.jpg"
+    },
+    {
+      "titolo": "Pasqua",
+      "descrizione": "Assapora le nostre pasqualità.",
+      "data": "17 aprile 2024",
+      "immagine": "https://static.vecteezy.com/ti/vettori-gratis/p3/5867299-modello-poster-di-pasqua-e-banner-con-uova-di-pasqua-dorate-nel-nido-sulla-lavagna-saluti-e-regali-per-il-giorno-di-pasqua-in-flat-lay-promozione-di-styling-e-modello-shopping-per-pasqua-vettoriale.jpg"
+    }
+  ]
